@@ -86,8 +86,8 @@ No modules.
 
 ## See Also
 
-- [faasd on Google Cloud Platform](https://github.com/jsiebens/terraform-google-faasd)
-- [faasd on Microsoft Azure](https://github.com/jsiebens/terraform-azurerm-faasd)
-- [faasd on DigitalOcean](https://github.com/jsiebens/terraform-digitalocean-faasd)
-- [faasd on Equinix Metal](https://github.com/jsiebens/terraform-equinix-faasd)
-- [faasd on Scaleway](https://github.com/jsiebens/terraform-scaleway-faasd)
+- [faasd on Google Cloud Platform with Terraform](https://github.com/jsiebens/terraform-google-faasd)
+- [faasd on Microsoft Azure with Terraform](https://github.com/jsiebens/terraform-azurerm-faasd)
+- [faasd on DigitalOcean with Terraform](https://github.com/jsiebens/terraform-digitalocean-faasd)
+- [faasd on Equinix Metal with Terraform](https://github.com/jsiebens/terraform-equinix-faasd)
+- [faasd on Scaleway with Terraform](https://github.com/jsiebens/terraform-scaleway-faasd)
